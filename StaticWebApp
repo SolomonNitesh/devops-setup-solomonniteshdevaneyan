@@ -1,0 +1,11 @@
+Clone or create a basic HTML + CSS static web app (can be a single-page "Hello from XOps!" site)
+
+Create a Dockerfile to containerize the app
+
+Build the Docker image on your local machine
+
+Run the container and verify that the app works on your browser at http://localhost:8080
+
+Push your project to a public GitHub repo
+
+Share your GitHub repo link in the Teams thread
